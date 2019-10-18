@@ -2,8 +2,7 @@
 []()
 ## Background
 Create a Visualization Dashboard Website of Weather in 500+ World Cities Relative to the Equator at Different Latitudes Using HTML5, CSS3 and Bootstrap 4
-
-## Objectives 
+### Objectives 
 In building this dashboard, create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ### Website Requirements
@@ -14,10 +13,10 @@ In building this dashboard, create individual pages for each plot and a means by
 
 ![Alt Tag](https://github.com/PetraLee2019/Web-Visualization-Dashboard-Latitude-/blob/master/Images/landing_page.png?raw=true)
 
-Four Visualization Pages, each with:
-A descriptive title and heading tag
-The plot/visualization itself for the selected comparison
-A paragraph describing the plot and its significance
+#### Four Visualization Pages, each with:
+- A descriptive title and heading tag
+- The plot/visualization itself for the selected comparison
+- A paragraph describing the plot and its significance
 
 ![Alt Tag](https://github.com/PetraLee2019/Web-Visualization-Dashboard-Latitude-/blob/master/Images/visualizations_page.png?raw=true)
 
